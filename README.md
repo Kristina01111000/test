@@ -10,3 +10,4 @@ figure it out before the next git class
 - using notepad ++
 - using the email that github makes for me instead of real email
 - make a copy of git commands
+- https://training.github.com/ for pdf
