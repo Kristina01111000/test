@@ -11,3 +11,5 @@ figure it out before the next git class
 - using the email that github makes for me instead of real email
 - make a copy of git commands
 - https://training.github.com/ for pdf
+
+git bash works, can find the site, but cannot make changes to it
